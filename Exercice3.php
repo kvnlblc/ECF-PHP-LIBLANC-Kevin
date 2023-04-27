@@ -30,6 +30,7 @@ else {
 
 $choix=readline('Voulez-vous continuer ?');
 
+// Ici on fais une boucle pour le repeat
 
 while($choix=='o'){
     // Coefficients de l'équation du deuxième degré
