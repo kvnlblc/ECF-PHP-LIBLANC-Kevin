@@ -1,6 +1,6 @@
 <?php
 
-echo "              ********************* Table de Multiplication********************* \n";
+echo "              ********************* Table de Multiplication********************* \n\n";
 
 // ont défini $nombre qui va servire à garder notre valeur en mémoire
 

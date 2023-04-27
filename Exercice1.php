@@ -2,7 +2,7 @@
 // Message de départ
 echo "              *********************\n";
 echo "              CALCUL SUR LE CERCLE\n";
-echo "              *********************\n";
+echo "              *********************\n\n";
 // ont défini $rayon qui va servire à garder notre valeur en mémoire
 $rayon = readline('Quel est le rayon du cercle : ');
 $circonference = 2 * M_PI * $rayon;

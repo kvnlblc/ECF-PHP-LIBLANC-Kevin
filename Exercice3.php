@@ -1,6 +1,6 @@
 <?php
 
-echo "Racine de l'équation du 2nd degré\n Y = ax² + bx + c\n";
+echo "Racine de l'équation du 2nd degré\n Y = ax² + bx + c\n\n";
 
 // Ici ont fais définir à l'utilisateur les valeurs
 $a = readline('Quelle est la valeur de a : ');
